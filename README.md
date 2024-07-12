@@ -175,9 +175,9 @@ Handwritten digit recognition is the foundation of Optical Character Recognition
 
 ## Results
 
-The model achieved a test accuracy of approximately `XX%`. The figure below shows an example of the model's predictions:
+The model achieved a test accuracy of approximately `99.26%`. 
 
-![Prediction Example](image.png)
+
 
 ## How to Use this Repo
 
